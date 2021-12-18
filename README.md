@@ -51,10 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=klicer&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </div>  
 
-<br/> 
 <br/>
-<br/>
-<br/>
-
 
 ![Visitor Count](https://profile-counter.glitch.me/{Klicer}/count.svg)
